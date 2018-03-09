@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="062b9314-9e72-4ef1-9dec-2f7516459748" name="Default" comment="" />
+    <list default="true" id="062b9314-9e72-4ef1-9dec-2f7516459748" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Column.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Quadrant.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/Row.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/Field.java" afterPath="$PROJECT_DIR$/src/Field.java" />
+      <change beforePath="$PROJECT_DIR$/src/Sudoku.java" afterPath="$PROJECT_DIR$/src/Sudoku.java" />
+      <change beforePath="$PROJECT_DIR$/test/Test_Sudoku_Cases.java" afterPath="$PROJECT_DIR$/test/Test_Sudoku_Cases.java" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +18,91 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Sudoku.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Sudoku.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="404" column="39" lean-forward="true" selection-start-line="404" selection-start-column="39" selection-end-line="404" selection-end-column="39" />
+              <folding>
+                <element signature="method#main#0;class#Sudoku#0" expanded="false" />
+                <element signature="method#print#0;class#Sudoku#0" expanded="false" />
+                <element signature="method#printGuesses#0;class#Sudoku#0" expanded="false" />
+                <element signature="e#17453#17454#0" expanded="true" />
+                <element signature="e#17502#17503#0" expanded="true" />
+                <element signature="e#17553#17554#0" expanded="true" />
+                <element signature="e#17608#17609#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Row.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Row.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Column.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Column.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Quadrant.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Quadrant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1423">
+              <caret line="103" column="19" lean-forward="false" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+              <folding>
+                <element signature="e#6813#6814#0" expanded="true" />
+                <element signature="e#6837#6838#0" expanded="true" />
+                <element signature="e#6881#6882#0" expanded="true" />
+                <element signature="e#6918#6919#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Field.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Field.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="93" column="29" lean-forward="true" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_Sudoku_Cases.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Element.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Element.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -32,13 +124,18 @@
       <find>solve());</find>
       <find>415873962763924185928165374157238496396547218284691753831752649672489531549316827</find>
       <find>print</find>
-      <find>sys</find>
       <find />
+      <find>s</find>
+      <find>sys</find>
+      <find>s[</find>
+      <find>assertEquals(solution</find>
     </findStrings>
     <replaceStrings>
       <replace>// assertEquals</replace>
       <replace>solve());fail(&quot;Not solved&quot;);</replace>
       <replace>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</replace>
+      <replace>sudoku.</replace>
+      <replace>sudoku.s[</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -56,9 +153,13 @@
         <option value="$PROJECT_DIR$/src/SudokuException.java" />
         <option value="$PROJECT_DIR$/test/Test_Sudoku.java" />
         <option value="$PROJECT_DIR$/src/Element.java" />
+        <option value="$PROJECT_DIR$/test/Test_Sudoku_Cases.java" />
+        <option value="$PROJECT_DIR$/src/Row.java" />
+        <option value="$PROJECT_DIR$/src/SudokuColumn.java" />
+        <option value="$PROJECT_DIR$/src/Column.java" />
+        <option value="$PROJECT_DIR$/src/Quadrant.java" />
         <option value="$PROJECT_DIR$/src/Field.java" />
         <option value="$PROJECT_DIR$/src/Sudoku.java" />
-        <option value="$PROJECT_DIR$/test/Test_Sudoku_Cases.java" />
       </list>
     </option>
   </component>
@@ -101,6 +202,11 @@
             <path>
               <item name="Sudoku" type="b2602c69:ProjectViewProjectNode" />
               <item name="Sudoku" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Sudoku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sudoku" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -131,14 +237,14 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.Test_Sudoku_Cases.test_35">
+  <component name="RunManager" selected="JUnit.Test_Sudoku_Cases.test_1">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -338,11 +444,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases.test_35" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases.test_1" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases.test_649" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Sudoku" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases.test_1" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Sudoku" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases.test_35" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Test_Sudoku_Cases.test_649" />
       </list>
     </recent_temporary>
   </component>
@@ -363,35 +469,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_Sudoku_Cases - 2018.03.09 at 11h 46m 25s.xml">
-      <configuration name="Test_Sudoku_Cases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Sudoku_Cases - 2018.03.09 at 11h 50m 17s.xml">
-      <configuration name="Test_Sudoku_Cases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Sudoku_Cases - 2018.03.09 at 13h 49m 17s.xml">
-      <configuration name="Test_Sudoku_Cases" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 13h 49m 00s.xml">
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 56m 01s.xml">
       <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Sudoku_Cases_test_35 - 2018.03.09 at 13h 49m 45s.xml">
-      <configuration name="Test_Sudoku_Cases.test_35" configurationId="JUnit" />
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 56m 56s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Sudoku_Cases_test_35 - 2018.03.09 at 13h 50m 45s.xml">
-      <configuration name="Test_Sudoku_Cases.test_35" configurationId="JUnit" />
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 57m 36s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Sudoku_Cases_test_35 - 2018.03.09 at 13h 51m 13s.xml">
-      <configuration name="Test_Sudoku_Cases.test_35" configurationId="JUnit" />
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 58m 05s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Sudoku_Cases_test_35 - 2018.03.09 at 13h 51m 37s.xml">
-      <configuration name="Test_Sudoku_Cases.test_35" configurationId="JUnit" />
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 58m 15s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Sudoku_Cases_test_35 - 2018.03.09 at 13h 53m 04s.xml">
-      <configuration name="Test_Sudoku_Cases.test_35" configurationId="JUnit" />
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 58m 25s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Test_Sudoku_Cases_test_649 - 2018.03.09 at 13h 48m 54s.xml">
-      <configuration name="Test_Sudoku_Cases.test_649" configurationId="JUnit" />
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 58m 32s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 14h 58m 42s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 15h 04m 33s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_Sudoku_Cases_test_1 - 2018.03.09 at 15h 05m 47s.xml">
+      <configuration name="Test_Sudoku_Cases.test_1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -406,8 +512,8 @@
       <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982844" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982844" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3538961" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2562258" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -466,36 +572,24 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Sudoku.java</url>
-          <line>144</line>
-          <properties />
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sudoku.java</url>
-          <line>147</line>
-          <properties />
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sudoku.java</url>
-          <line>150</line>
-          <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sudoku.java</url>
-          <line>155</line>
+          <line>152</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Sudoku.java</url>
-          <line>79</line>
+          <line>131</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sudoku.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="21" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -519,30 +613,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
             <element signature="method#main#0;class#Sudoku#0" expanded="false" />
             <element signature="method#print#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printGuesses#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#guess1#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#setAllFieldsWithOneGuess#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#sliceAndDice#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#eachNumberUniqueInColumnRowSquare#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#16127#16128#0" expanded="false" />
-            <element signature="e#16170#16171#0" expanded="false" />
-            <element signature="e#16227#16228#0" expanded="false" />
-            <element signature="e#16282#16283#0" expanded="false" />
-            <element signature="e#18470#18471#0" expanded="false" />
-            <element signature="e#18502#18503#0" expanded="false" />
-            <element signature="e#18554#18555#0" expanded="false" />
-            <element signature="e#18599#18600#0" expanded="false" />
-            <element signature="e#25251#25252#0" expanded="false" />
-            <element signature="e#25283#25284#0" expanded="false" />
-            <element signature="e#25335#25336#0" expanded="false" />
-            <element signature="e#25380#25381#0" expanded="false" />
-            <element signature="e#34460#34461#0" expanded="false" />
-            <element signature="e#34492#34493#0" expanded="false" />
-            <element signature="e#34544#34545#0" expanded="false" />
-            <element signature="e#34586#34587#0" expanded="false" />
+            <element signature="e#17453#17454#0" expanded="true" />
+            <element signature="e#17502#17503#0" expanded="true" />
+            <element signature="e#17553#17554#0" expanded="true" />
+            <element signature="e#17608#17609#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -551,9 +628,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4500">
           <caret line="250" column="108" lean-forward="false" selection-start-line="250" selection-start-column="108" selection-end-line="250" selection-end-column="108" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -562,30 +637,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
             <element signature="method#main#0;class#Sudoku#0" expanded="false" />
             <element signature="method#print#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printGuesses#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#guess1#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#setAllFieldsWithOneGuess#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#sliceAndDice#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#eachNumberUniqueInColumnRowSquare#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#16127#16128#0" expanded="false" />
-            <element signature="e#16170#16171#0" expanded="false" />
-            <element signature="e#16227#16228#0" expanded="false" />
-            <element signature="e#16282#16283#0" expanded="false" />
-            <element signature="e#18470#18471#0" expanded="false" />
-            <element signature="e#18502#18503#0" expanded="false" />
-            <element signature="e#18554#18555#0" expanded="false" />
-            <element signature="e#18599#18600#0" expanded="false" />
-            <element signature="e#25251#25252#0" expanded="false" />
-            <element signature="e#25283#25284#0" expanded="false" />
-            <element signature="e#25335#25336#0" expanded="false" />
-            <element signature="e#25380#25381#0" expanded="false" />
-            <element signature="e#34460#34461#0" expanded="false" />
-            <element signature="e#34492#34493#0" expanded="false" />
-            <element signature="e#34544#34545#0" expanded="false" />
-            <element signature="e#34586#34587#0" expanded="false" />
+            <element signature="e#17453#17454#0" expanded="true" />
+            <element signature="e#17502#17503#0" expanded="true" />
+            <element signature="e#17553#17554#0" expanded="true" />
+            <element signature="e#17608#17609#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -594,9 +652,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1422">
           <caret line="79" column="9" lean-forward="true" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -616,30 +672,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
             <element signature="method#main#0;class#Sudoku#0" expanded="false" />
             <element signature="method#print#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printGuesses#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#guess1#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#setAllFieldsWithOneGuess#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#sliceAndDice#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#eachNumberUniqueInColumnRowSquare#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#16127#16128#0" expanded="false" />
-            <element signature="e#16170#16171#0" expanded="false" />
-            <element signature="e#16227#16228#0" expanded="false" />
-            <element signature="e#16282#16283#0" expanded="false" />
-            <element signature="e#18470#18471#0" expanded="false" />
-            <element signature="e#18502#18503#0" expanded="false" />
-            <element signature="e#18554#18555#0" expanded="false" />
-            <element signature="e#18599#18600#0" expanded="false" />
-            <element signature="e#25251#25252#0" expanded="false" />
-            <element signature="e#25283#25284#0" expanded="false" />
-            <element signature="e#25335#25336#0" expanded="false" />
-            <element signature="e#25380#25381#0" expanded="false" />
-            <element signature="e#34460#34461#0" expanded="false" />
-            <element signature="e#34492#34493#0" expanded="false" />
-            <element signature="e#34544#34545#0" expanded="false" />
-            <element signature="e#34586#34587#0" expanded="false" />
+            <element signature="e#17453#17454#0" expanded="true" />
+            <element signature="e#17502#17503#0" expanded="true" />
+            <element signature="e#17553#17554#0" expanded="true" />
+            <element signature="e#17608#17609#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -649,30 +688,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
             <element signature="method#main#0;class#Sudoku#0" expanded="false" />
             <element signature="method#print#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printGuesses#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#guess1#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#setAllFieldsWithOneGuess#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#sliceAndDice#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#eachNumberUniqueInColumnRowSquare#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#16127#16128#0" expanded="false" />
-            <element signature="e#16170#16171#0" expanded="false" />
-            <element signature="e#16227#16228#0" expanded="false" />
-            <element signature="e#16282#16283#0" expanded="false" />
-            <element signature="e#18470#18471#0" expanded="false" />
-            <element signature="e#18502#18503#0" expanded="false" />
-            <element signature="e#18554#18555#0" expanded="false" />
-            <element signature="e#18599#18600#0" expanded="false" />
-            <element signature="e#25251#25252#0" expanded="false" />
-            <element signature="e#25283#25284#0" expanded="false" />
-            <element signature="e#25335#25336#0" expanded="false" />
-            <element signature="e#25380#25381#0" expanded="false" />
-            <element signature="e#34460#34461#0" expanded="false" />
-            <element signature="e#34492#34493#0" expanded="false" />
-            <element signature="e#34544#34545#0" expanded="false" />
-            <element signature="e#34586#34587#0" expanded="false" />
+            <element signature="e#17453#17454#0" expanded="true" />
+            <element signature="e#17502#17503#0" expanded="true" />
+            <element signature="e#17553#17554#0" expanded="true" />
+            <element signature="e#17608#17609#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -728,40 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Set.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Field.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="94" column="9" lean-forward="false" selection-start-line="94" selection-start-column="9" selection-end-line="94" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#877#878#0" expanded="false" />
-            <element signature="e#915#916#0" expanded="false" />
-            <element signature="e#961#962#0" expanded="false" />
-            <element signature="e#994#995#0" expanded="false" />
-            <element signature="e#2422#2423#0" expanded="false" />
-            <element signature="e#2450#2451#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1278">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/Test_Sudoku.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
@@ -778,45 +766,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sudoku.java">
+    <entry file="file://$PROJECT_DIR$/src/Element.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="55" column="52" lean-forward="false" selection-start-line="55" selection-start-column="52" selection-end-line="55" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="method#main#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#print#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#printGuesses#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#guess1#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#setAllFieldsWithOneGuess#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#sliceAndDice#0;class#Sudoku#0" expanded="false" />
-            <element signature="method#eachNumberUniqueInColumnRowSquare#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#16127#16128#0" expanded="false" />
-            <element signature="e#16170#16171#0" expanded="false" />
-            <element signature="e#16227#16228#0" expanded="false" />
-            <element signature="e#16282#16283#0" expanded="false" />
-            <element signature="e#18470#18471#0" expanded="false" />
-            <element signature="e#18502#18503#0" expanded="false" />
-            <element signature="e#18554#18555#0" expanded="false" />
-            <element signature="e#18599#18600#0" expanded="false" />
-            <element signature="e#25251#25252#0" expanded="false" />
-            <element signature="e#25283#25284#0" expanded="false" />
-            <element signature="e#25335#25336#0" expanded="false" />
-            <element signature="e#25380#25381#0" expanded="false" />
-            <element signature="e#34460#34461#0" expanded="false" />
-            <element signature="e#34492#34493#0" expanded="false" />
-            <element signature="e#34544#34545#0" expanded="false" />
-            <element signature="e#34586#34587#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="235">
+          <caret line="42" column="38" lean-forward="false" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Row.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="264" column="76" lean-forward="false" selection-start-line="264" selection-start-column="76" selection-end-line="264" selection-end-column="76" />
+        <state relative-caret-position="234">
+          <caret line="15" column="86" lean-forward="false" selection-start-line="15" selection-start-column="86" selection-end-line="15" selection-end-column="86" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Column.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Set.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="93" column="29" lean-forward="true" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="404" column="39" lean-forward="true" selection-start-line="404" selection-start-column="39" selection-end-line="404" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="method#main#0;class#Sudoku#0" expanded="false" />
+            <element signature="method#print#0;class#Sudoku#0" expanded="false" />
+            <element signature="method#printGuesses#0;class#Sudoku#0" expanded="false" />
+            <element signature="e#17453#17454#0" expanded="true" />
+            <element signature="e#17502#17503#0" expanded="true" />
+            <element signature="e#17553#17554#0" expanded="true" />
+            <element signature="e#17608#17609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Quadrant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1423">
+          <caret line="103" column="19" lean-forward="false" selection-start-line="103" selection-start-column="19" selection-end-line="103" selection-end-column="19" />
+          <folding>
+            <element signature="e#6813#6814#0" expanded="true" />
+            <element signature="e#6837#6838#0" expanded="true" />
+            <element signature="e#6881#6882#0" expanded="true" />
+            <element signature="e#6918#6919#0" expanded="true" />
           </folding>
         </state>
       </provider>

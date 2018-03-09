@@ -10,7 +10,10 @@ public class Test_Sudoku_Cases {
 
         String puzzle = "000_870_000_000_000_080_920_000_004_050_030_006_000_000_000_004_601_003_030_052_040_600_009_500_009_006_020";
         String solution = "415873962763924185928165374157238496396547218284691753831752649672489531549316827";
-        assertEquals(solution, new Sudoku(puzzle).solve());
+
+       // System.out.println(new Sudoku(puzzle).toURL());
+
+        assertEquals( solution, new Sudoku(puzzle).solve(), new Sudoku(puzzle).toURL());
     }
 
     @Test
@@ -105,6 +108,9 @@ public class Test_Sudoku_Cases {
     public void test_14() throws Exception {
         String puzzle = ".....6..3..9.4...532......8....1......175.6.92......8.....6.......8...4.47....2..";
         String solution = "715986423689243715324175968963418572841752639257639184132564897596827341478391256";
+
+
+
         assertEquals(solution, new Sudoku(puzzle).solve());
     }
 
