@@ -4,16 +4,13 @@ import java.util.Set;
 public class Field {
     public final int x;
     public final int y;
-    private final boolean fixed;
     Set<Integer> guesses = new HashSet<>();
     private int value;
 
-    public Field(int value, int x, int y) {
+    Field(int value, int x, int y) {
         if (value != 0) {
-            this.fixed = true;
             this.value = value;
         } else {
-            this.fixed = false;
             guesses.add(1);
             guesses.add(2);
             guesses.add(3);
@@ -73,16 +70,11 @@ public class Field {
                 throw new SudokuException("No number possible. " + (x + 1) + ", " + (y + 1));
             }
             if (guesses.size() == 1) {
-                setValue(guesses.iterator().next());
+               int lastGuess = guesses.iterator().next();
+                setValue(lastGuess);
             }
         }
         return result;
-
-
-        //if (isSet()) {
-        //    throw new SudokuException("Why are you guessing. " + (x + 1) + ", " + (y + 1));
-        //}
-
     }
 
     public int getValue() {
@@ -92,7 +84,6 @@ public class Field {
     public void setValue(int value) {
         if (isSet())
             throw new SudokuException("Field already set.");
-       // System.out.println("Setting field " + (x + 1) + ", " + (y + 1) + " to value " + value + ".");
         this.value = value;
     }
 }

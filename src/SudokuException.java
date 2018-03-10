@@ -1,5 +1,5 @@
-public class SudokuException extends RuntimeException {
-    public SudokuException(String s) {
+class SudokuException extends RuntimeException {
+    SudokuException(String s) {
         super(s);
     }
 }
