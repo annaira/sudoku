@@ -2,18 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="062b9314-9e72-4ef1-9dec-2f7516459748" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/annai.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/Fields.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test/Test_Sudoku_Cases_Top_95.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Element.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/Field.java" afterPath="$PROJECT_DIR$/src/Field.java" />
-      <change beforePath="$PROJECT_DIR$/src/Sudoku.java" afterPath="$PROJECT_DIR$/src/Sudoku.java" />
-      <change beforePath="$PROJECT_DIR$/src/SudokuException.java" afterPath="$PROJECT_DIR$/src/SudokuException.java" />
-      <change beforePath="$PROJECT_DIR$/test/Test_Sudoku.java" afterPath="$PROJECT_DIR$/test/Test_Sudoku.java" />
-      <change beforePath="$PROJECT_DIR$/test/Test_Sudoku_Cases.java" afterPath="$PROJECT_DIR$/test/Test_Sudoku_Cases.java" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/Sudoku.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Field.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Fields.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/Sudoku.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/SudokuException.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/Test_Sudoku.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/Test_Sudoku_Cases.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/test/Test_Sudoku_Cases_Top_95.java" afterPath="" />
     </list>
+    <ignored path=".idea/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,93 +26,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Sudoku.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Sudoku.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="465" column="13" lean-forward="false" selection-start-line="465" selection-start-column="13" selection-end-line="465" selection-end-column="13" />
-              <folding>
-                <element signature="e#10080#10081#0" expanded="true" />
-                <element signature="e#10118#10119#0" expanded="true" />
-                <element signature="e#10445#10446#0" expanded="true" />
-                <element signature="e#10480#10481#0" expanded="true" />
-                <element signature="e#10515#10516#0" expanded="true" />
-                <element signature="e#10564#10565#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SudokuException.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SudokuException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fields.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Fields.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-                <element signature="e#5187#5188#0" expanded="true" />
-                <element signature="e#5219#5220#0" expanded="true" />
-                <element signature="e#5934#5935#0" expanded="true" />
-                <element signature="e#5963#5964#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Field.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Field.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-                <element signature="e#812#813#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_Sudoku_Cases.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-313">
-              <caret line="2500" column="108" lean-forward="false" selection-start-line="2500" selection-start-column="108" selection-end-line="2500" selection-end-column="108" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test_Sudoku_Cases_Top_95.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases_Top_95.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6001">
-              <caret line="353" column="108" lean-forward="false" selection-start-line="353" selection-start-column="108" selection-end-line="353" selection-end-column="108" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+            <state relative-caret-position="102">
+              <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -117,11 +40,31 @@
       <file leaf-file-name="Test_Sudoku.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/Test_Sudoku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="560">
               <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_Sudoku_Cases.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test_Sudoku_Cases_Top_95.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases_Top_95.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="353" column="108" lean-forward="false" selection-start-line="353" selection-start-column="108" selection-end-line="353" selection-end-column="108" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -210,13 +153,12 @@
         <option value="$PROJECT_DIR$/src/Sudoku.java" />
         <option value="$PROJECT_DIR$/src/SudokuException.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
-      <run-configuration type="JUnit" name="Test_Sudoku_Cases.test_3" />
-      <run-configuration type="JUnit" name="Rerun Failed Tests" />
       <run-configuration type="JUnit" name="Test_Sudoku_Cases" />
     </enabled-run-configurations>
   </component>
@@ -248,7 +190,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,7 +201,7 @@
             <path>
               <item name="Sudoku" type="b2602c69:ProjectViewProjectNode" />
               <item name="sudoku" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Sudoku" type="b2602c69:ProjectViewProjectNode" />
@@ -274,13 +216,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
@@ -569,6 +511,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -578,13 +521,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982844" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982844" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43054083" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42996743" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32790446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26186666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -596,6 +538,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32873806" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -667,16 +610,74 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Sudoku.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7803">
+          <caret line="465" column="13" lean-forward="false" selection-start-line="465" selection-start-column="13" selection-end-line="465" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SudokuException.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Fields.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases_Top_95.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5967">
+          <caret line="353" column="108" lean-forward="false" selection-start-line="353" selection-start-column="108" selection-end-line="353" selection-end-column="108" />
           <folding>
-            <element signature="e#10080#10081#0" expanded="true" />
-            <element signature="e#10118#10119#0" expanded="true" />
-            <element signature="e#10445#10446#0" expanded="true" />
-            <element signature="e#10480#10481#0" expanded="true" />
-            <element signature="e#10515#10516#0" expanded="true" />
-            <element signature="e#10564#10565#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42500">
+          <caret line="2500" column="108" lean-forward="false" selection-start-line="2500" selection-start-column="108" selection-end-line="2500" selection-end-column="108" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Sudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -684,11 +685,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="27" lean-forward="false" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -705,7 +701,7 @@
         <state relative-caret-position="3655">
           <caret line="217" column="7" lean-forward="false" selection-start-line="30" selection-start-column="3" selection-end-line="217" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -714,14 +710,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#10080#10081#0" expanded="true" />
-            <element signature="e#10118#10119#0" expanded="true" />
-            <element signature="e#10445#10446#0" expanded="true" />
-            <element signature="e#10480#10481#0" expanded="true" />
-            <element signature="e#10515#10516#0" expanded="true" />
-            <element signature="e#10564#10565#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -729,11 +718,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1581">
           <caret line="93" column="29" lean-forward="true" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -749,14 +733,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#10080#10081#0" expanded="true" />
-            <element signature="e#10118#10119#0" expanded="true" />
-            <element signature="e#10445#10446#0" expanded="true" />
-            <element signature="e#10480#10481#0" expanded="true" />
-            <element signature="e#10515#10516#0" expanded="true" />
-            <element signature="e#10564#10565#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -772,14 +749,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#10080#10081#0" expanded="true" />
-            <element signature="e#10118#10119#0" expanded="true" />
-            <element signature="e#10445#10446#0" expanded="true" />
-            <element signature="e#10480#10481#0" expanded="true" />
-            <element signature="e#10515#10516#0" expanded="true" />
-            <element signature="e#10564#10565#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -796,14 +766,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#10080#10081#0" expanded="true" />
-            <element signature="e#10118#10119#0" expanded="true" />
-            <element signature="e#10445#10446#0" expanded="true" />
-            <element signature="e#10480#10481#0" expanded="true" />
-            <element signature="e#10515#10516#0" expanded="true" />
-            <element signature="e#10564#10565#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -811,14 +774,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#10080#10081#0" expanded="true" />
-            <element signature="e#10118#10119#0" expanded="true" />
-            <element signature="e#10445#10446#0" expanded="true" />
-            <element signature="e#10480#10481#0" expanded="true" />
-            <element signature="e#10515#10516#0" expanded="true" />
-            <element signature="e#10564#10565#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -828,25 +784,13 @@
         <state relative-caret-position="18">
           <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml" />
+    <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml" />
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/sun/nio/ch/Util.class" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.0.0/junit-platform-commons-1.0.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -859,47 +803,25 @@
     <entry file="file://$PROJECT_DIR$/src/Column.java" />
     <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/Set.class" />
     <entry file="file://$PROJECT_DIR$/src/Quadrant.java" />
-    <entry file="file://$PROJECT_DIR$/src/Element.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Element.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/function/ToIntFunction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Field.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="221">
           <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-            <element signature="e#812#813#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Fields.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
+        <state relative-caret-position="476">
           <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#5187#5188#0" expanded="true" />
-            <element signature="e#5219#5220#0" expanded="true" />
-            <element signature="e#5934#5935#0" expanded="true" />
-            <element signature="e#5963#5964#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,29 +829,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Sudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="7803">
           <caret line="465" column="13" lean-forward="false" selection-start-line="465" selection-start-column="13" selection-end-line="465" selection-end-column="13" />
-          <folding>
-            <element signature="e#10080#10081#0" expanded="true" />
-            <element signature="e#10118#10119#0" expanded="true" />
-            <element signature="e#10445#10446#0" expanded="true" />
-            <element signature="e#10480#10481#0" expanded="true" />
-            <element signature="e#10515#10516#0" expanded="true" />
-            <element signature="e#10564#10565#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku.java">
+    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/lo" />
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+        <state relative-caret-position="179">
+          <caret line="2488" column="5" lean-forward="true" selection-start-line="2488" selection-start-column="5" selection-end-line="2488" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -938,34 +869,74 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-313">
-          <caret line="2500" column="108" lean-forward="false" selection-start-line="2500" selection-start-column="108" selection-end-line="2500" selection-end-column="108" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases_Top_95.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6001">
-          <caret line="353" column="108" lean-forward="false" selection-start-line="353" selection-start-column="108" selection-end-line="353" selection-end-column="108" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dictionaries/lo">
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+        <state relative-caret-position="102">
+          <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="46" column="65" lean-forward="false" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/Test_Sudoku_Cases_Top_95.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="353" column="108" lean-forward="false" selection-start-line="353" selection-start-column="108" selection-end-line="353" selection-end-column="108" />
           <folding />
         </state>
       </provider>
