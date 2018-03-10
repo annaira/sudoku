@@ -13,6 +13,7 @@ public class Test_Sudoku_Not_Solvable_Cases {
             fail("Exception expected.");
         } catch (SudokuException e) {
             assertEquals(e.getMessage(), "Not eindeutig \n" +
+                    "926571483git sta351486279874923516582367194149258367763149825238794651617835942495612738\n" +
                     "926571483351486279874923516582367194149258367763194825238749651617835942495612738");
         }
     }
